@@ -4,6 +4,10 @@
 
 Bilgisayar gorusu tabanli cizim ve kayit deneyleri iceren Python projesi.
 
+## Proje Gorseli
+
+![ComputerVisionProjesi Cover](assets/cover.png/ChatGPT%20Image%2027%20Mar%202026%2018_18_23.png)
+
 ## Icerik
 
 - `ressam.py`: Ana uygulama akisi
