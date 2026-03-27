@@ -1,3 +1,5 @@
+<img src="assets/cover.png" width="100%"/>
+
 # ComputerVisionProjesi
 
 Bilgisayar gorusu tabanli cizim ve kayit deneyleri iceren Python projesi.
